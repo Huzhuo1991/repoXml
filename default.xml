@@ -7,9 +7,9 @@
 	revision="refs/heads/master"
 	remote="origin"/>
 <project
-	name="code1"
+	name="code3"
 	path="code/code1"/>
 <project
-	name="code2"
+	name="code4"
 	path="code/code2"/>
 </manifest>
