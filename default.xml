@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote
+	name="origin"
+	fetch="https://github.com/huzhuo1991"/>
+<default
+	revision="refs/heads/master"
+	remote="origin"/>
+<project
+	name="code1"
+	path="code/code1"/>
+<project
+	name="code2"
+	path="code/code2"/>
+</manifest>
